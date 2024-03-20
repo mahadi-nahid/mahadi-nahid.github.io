@@ -8,21 +8,8 @@ redirect_from:
 ---
 
 Hello and Welcome Everyone. 
-
-A data-driven personal website
+My research interest includes Natural Language Processing, Information Retrieval, and Large Language Model.
+👨‍💻👨‍💻👨‍💻 
 ======
 
-Getting started
-======
-
-------
-
-------
-
-
-**Markdown generator**
-
-
-
-For more info
-------
+=====
