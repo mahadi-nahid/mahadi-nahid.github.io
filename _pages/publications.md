@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2024
 -----------
-* [**TabSQLify: **]()<br/>
+* [**TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition **]()<br/>
 📰 <span style ="color:Maroon"> Accepted for publication at **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://2024.naacl.org) <br/>
 👨‍💻  **Md Mahadi Hasan Nahid**, Davood Rafeie <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://2024.naacl.org)

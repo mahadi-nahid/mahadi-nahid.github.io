@@ -6,59 +6,64 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<p>
+  <a href="https://tafseer-nayeem.github.io/files/mahadi_cv.pdf" target="_blank" title="Long CV">Long CV</a>
+  <strong>AND</strong>
+  <a href="https://tafseer-nayeem.github.io/files/mahadi_cv.pdf" target="_blank" title="Short CV">Short CV</a>
+  <span style="color:green;">[<ins>Last Updated on Dec 28, 2024</ins>]</span>
+</p>
 
+
+## Contact Me
+
+---
+
+✉️ **Email:**  
+- Official: `mnahid[at]ualberta[dot]ca`  
+- Other: `nahid-cse[at]sust[dot]edu`
+
+🔗 **Website:** [tafseer-nayeem.github.io](https://mahadi-nahid.github.io/)
+
+🐦 **Twitter:** [mtnayeem](https://twitter.com/mhn_nahid)  
+🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/nahidcse/)  
+🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)
+
+🏠 **Address:**  
+Department of Computing Science  
+1-13 Athabasca Hall  
+University of Alberta  
+Edmonton, Alberta  
+Canada T6G 2E8  
+
+
+
+----------------------------------------
+
+<!-- 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc(Thes.) in Computing Science, University of Alberta, 2024 (expected)
+* BSc in Computer Science and Engineering, Shahjalal University of Science and Technology, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assistant
+  * CMPUT 291 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LLM
+* IR
+* NLP
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [**TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition **]()<br/>
+📰 <span style ="color:Maroon"> Accepted for publication at **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://2024.naacl.org) <br/>
+👨‍💻  **Md Mahadi Hasan Nahid**, Davood Rafeie <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://2024.naacl.org) -->
+
+
+[**Back to Top**](#)
