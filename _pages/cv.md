@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 <p>
-  <a href="https://tafseer-nayeem.github.io/files/mahadi_cv.pdf" target="_blank" title="Long CV">Long CV</a>
+  <a href="https://mahadi-nahid.github.io/files/mahadi_cv.pdf" target="_blank" title="Long CV">Long CV</a>
   <strong>AND</strong>
-  <a href="https://tafseer-nayeem.github.io/files/mahadi_cv.pdf" target="_blank" title="Short CV">Short CV</a>
+  <a href="https://mahadi-nahid.github.io/files/mahadi_cv.pdf" target="_blank" title="Short CV">Short CV</a>
   <span style="color:green;">[<ins>Last Updated on Dec 28, 2024</ins>]</span>
 </p>
 
@@ -22,9 +22,9 @@ redirect_from:
 - Official: `mnahid[at]ualberta[dot]ca`  
 - Other: `nahid-cse[at]sust[dot]edu`
 
-🔗 **Website:** [tafseer-nayeem.github.io](https://mahadi-nahid.github.io/)
+🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/)
 
-🐦 **Twitter:** [mtnayeem](https://twitter.com/mhn_nahid)  
+🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)  
 🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/nahidcse/)  
 🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)
 
