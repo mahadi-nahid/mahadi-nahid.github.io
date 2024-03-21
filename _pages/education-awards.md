@@ -12,16 +12,16 @@ author_profile: true
 
 ## Work experience
 -----------
-* September 2022 - Present: Graduate Teaching Assistant, University of Alberta.
+* **September 2022 - Present: Graduate Teaching Assistant, University of Alberta.**
   * Course: CMPUT 291 - File and Database Management, F22, W23, F23, W24
 
 ## Achievements and Awards
 -----------
 * **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023** 
-* Alberta Graduate Excellence Scholarship (AEGS), Sep 2023
+* **Alberta Graduate Excellence Scholarship (AEGS), Sep 2023**
 * Alberta Machine Intelligence Institute (Amii) Talent Bursary, Amii 2023
-  * Upperbound AI Conference, 2023
-* University of Alberta Graduate Recruitment Scholarship Sep 2022 
+  * Upperbound AI Conference, 2023, 2024
+* **University of Alberta Graduate Recruitment Scholarship Sep 2022** 
   * Awarded by the University of Alberta for excellent academic background.
 * Runner Up Award - AIForBangla Feb 2022
   * Awarded By AIforBangla season 1, which is a national project contest focusing on the Bangla NLP research, funded by the government of Bangladesh.
@@ -38,7 +38,6 @@ author_profile: true
 
 ## Publications
 -----------
-
 ## 2024
 -----------
 * [**TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition**](https://2024.naacl.org)<br/>
