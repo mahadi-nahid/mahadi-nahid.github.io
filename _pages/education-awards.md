@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 ## Education
-======
+-----------
 * **MSc(Thes.) in Computing Science, University of Alberta, 2024 (expected)**
 * **BSc in Computer Science and Engineering, Shahjalal University of Science and Technology, 2016**
 
 ## Work experience
-======
+-----------
 * September 2022 - Present: Graduate Teaching Assistant, University of Alberta.
   * Course: CMPUT 291 - File and Database Management, F22, W23, F23, W24
 
 ## Achievements and Awards
-======
+-----------
 * **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023** 
 * Alberta Graduate Excellence Scholarship (AEGS), Sep 2023
 * Alberta Machine Intelligence Institute (Amii) Talent Bursary, Amii 2023
@@ -31,13 +31,13 @@ author_profile: true
 * **Prime Minister Gold Medal - 2016**
 
 ## Skills
-======
+-----------
 * LLM
 * IR
 * NLP
 
 ## Publications
-======
+-----------
 
 ## 2024
 -----------
