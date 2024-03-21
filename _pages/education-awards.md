@@ -5,23 +5,23 @@ permalink: /education-awards/
 author_profile: true
 ---
 
-Education
+## Education
 ======
-* MSc(Thes.) in Computing Science, University of Alberta, 2024 (expected)
-* BSc in Computer Science and Engineering, Shahjalal University of Science and Technology, 2016
+* **MSc(Thes.) in Computing Science, University of Alberta, 2024 (expected)**
+* **BSc in Computer Science and Engineering, Shahjalal University of Science and Technology, 2016**
 
-Work experience
+## Work experience
 ======
 * Teaching Assistant
   * CMPUT 291 
 
-Skills
+## Skills
 ======
 * LLM
 * IR
 * NLP
 
-Publications
+## Publications
 ======
 ## 2024
 -----------

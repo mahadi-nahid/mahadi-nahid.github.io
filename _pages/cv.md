@@ -6,8 +6,6 @@ author_profile: true
 ---
 <p>
   <a href="https://mahadi-nahid.github.io/files/mnahid_cv.pdf" target="_blank" title="Long CV">Long CV</a>
-  <strong>AND</strong>
-  <a href="https://mahadi-nahid.github.io/files/mnahid_cv.pdf" target="_blank" title="Short CV">Short CV</a>
   <span style="color:green;">[<ins>Last Updated on Dec 28, 2024</ins>]</span>
 </p>
 
