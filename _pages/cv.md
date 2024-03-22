@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 <p>
-  <a href="https://mahadi-nahid.github.io/files/mnahid_cv.pdf" target="_blank" title="Long CV">Long CV</a>
+  <a href="https://mahadi-nahid.github.io/files/mnahid_cv_long.pdf" target="_blank" title="Long CV">Long CV</a>
   <span style="color:green;">[<ins>Last Updated on Dec 28, 2024</ins>]</span>
 </p>
 
