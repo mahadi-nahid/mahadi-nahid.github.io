@@ -10,15 +10,14 @@ author_profile: true
 </p>
 
 ## Contact Me
----
 ✉️ **Email:**  
 - Official: `mnahid[at]ualberta[dot]ca`  
 - Other: `nahid-cse[at]sust[dot]edu`
 
-🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/)
+🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/) 
 🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)  
-🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/mahadi-nahid/)  
-🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)
+🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/mahadi-nahid/)    
+🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)   
 
 🏠 **Address:**  
 Department of Computing Science  

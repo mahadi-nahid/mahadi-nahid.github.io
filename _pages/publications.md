@@ -14,21 +14,18 @@ author_profile: true
 [comment]: # <br/>
 
 ## 2024
------------
 * [**TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition**](https://2024.naacl.org)<br/>
 📰 <span style ="color:Maroon"> Accepted for publication at **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://2024.naacl.org) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://2024.naacl.org)
 
 ## 2023
------------
 * [**Transmission Dynamics and Control of COVID-19: A Mathematical Modelling Study.**](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx)<br/>
 📰 <span style ="color:Maroon"> Journal of Applied Nonlinear Dynamics 12(2) (2023) 405--425 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx) <br/>
 👨‍💻 Das, K., Srinivas, M. N., Shahrear, P., Rahman, S. S.,**Md Mahadi Hasan Nahid**, & Murthy, B. S. N <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://2024.naacl.org)
 
 ## 2021
-------------
 * [**Zilla-64: A Bangla Handwritten Word Dataset Of 64 Districts` Name of Bangladesh and Recognition Using Holistic Approach**](https://ieeexplore.ieee.org/document/9642594)<br/>
 📰 <span style ="color:Maroon"> International Conference on Science & Contemporary Technologies (ICSCT), IEEE, 2021 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/document/9642594) <br/>
 👨‍💻 Md Ali Azad, Hijam Sushil Singha, **Md Mahadi Hasan Nahid** <br/>

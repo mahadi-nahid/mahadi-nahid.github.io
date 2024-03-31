@@ -18,7 +18,6 @@ Feel free to explore my website to learn more about my research projects, public
 👨‍💻👨‍💻👨‍💻 
 
 ## Contact Me
----
 ✉️ **Email:**  
 - Official: `mnahid[at]ualberta[dot]ca`  
 - Other: `nahid-cse[at]sust[dot]edu`
@@ -34,7 +33,4 @@ Department of Computing Science
 University of Alberta  
 Edmonton, Alberta  
 Canada T6G 2E8  
-
-
-
 ----------------------------------------
