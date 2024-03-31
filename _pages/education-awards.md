@@ -4,7 +4,6 @@ title: "Education and Awards"
 permalink: /education-awards/
 author_profile: true
 ---
-
 ## Education
 -----------
 * **MSc(Thes.) in Computing Science, University of Alberta, 2024 (expected)**
@@ -32,9 +31,7 @@ author_profile: true
 
 ## Skills
 -----------
-* LLM
-* IR
-* NLP
+* NLP, IR, LLM
 
 ## Publications
 -----------
@@ -44,6 +41,5 @@ author_profile: true
 📰 <span style ="color:Maroon"> Accepted for publication at **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://2024.naacl.org) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://2024.naacl.org)
-
 
 [**Back to Top**](#)

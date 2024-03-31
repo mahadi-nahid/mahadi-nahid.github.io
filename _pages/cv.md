@@ -9,19 +9,15 @@ author_profile: true
   <span style="color:green;">[<ins>Last Updated on Dec 28, 2024</ins>]</span>
 </p>
 
----
-
 ## Contact Me
 ---
-
 ✉️ **Email:**  
 - Official: `mnahid[at]ualberta[dot]ca`  
 - Other: `nahid-cse[at]sust[dot]edu`
 
 🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/)
-
 🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)  
-🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/nahidcse/)  
+🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/mahadi-nahid/)  
 🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)
 
 🏠 **Address:**  
@@ -30,10 +26,6 @@ Department of Computing Science
 University of Alberta  
 Edmonton, Alberta  
 Canada T6G 2E8  
-
-
-
 ----------------------------------------
-
 
 [**Back to Top**](#)
