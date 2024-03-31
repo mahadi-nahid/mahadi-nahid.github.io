@@ -26,6 +26,11 @@ author_profile: true
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx)
 
 ## 2021
+* [**Bangla-ExtraSum: Comparative Analysis of Different Methods in Automated Extractive Bengali Text Summarization**](https://ieeexplore.ieee.org/abstract/document/9667900)<br/>
+📰 <span style ="color:Maroon"> 5th International Conference on Electrical Engineering and Information Communication Technology (ICEEICT), 2021  </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9667900) <br/>
+👨‍💻 Towhid Ahmed Foysal, Mohaimen Abid Mahadi, **Md Mahadi Hasan Nahid**, Ayesha Tasnim <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9667900)
+
 * [**Zilla-64: A Bangla Handwritten Word Dataset Of 64 Districts` Name of Bangladesh and Recognition Using Holistic Approach**](https://ieeexplore.ieee.org/document/9642594)<br/>
 📰 <span style ="color:Maroon"> International Conference on Science & Contemporary Technologies (ICSCT), IEEE, 2021 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/document/9642594) <br/>
 👨‍💻 Md Ali Azad, Hijam Sushil Singha, **Md Mahadi Hasan Nahid** <br/>
@@ -36,8 +41,55 @@ author_profile: true
 👨‍💻 Shahrear, Pabel, SM Saydur Rahman, **Md Mahadi Hasan Nahid** <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.sciencedirect.com/science/article/pii/S2590037421000054)
 
-[comment]: # <br/>
+## 2020
+* [**Word Completion and Sequence Prediction in Bangla Language Using Trie and a Hybrid Approach of Sequential LSTM and N-gram**](https://ieeexplore.ieee.org/abstract/document/9333518)<br/>
+📰 <span style ="color:Maroon"> 2nd International Conference on Advanced Information and Communication Technology (ICAICT), 2020 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9333518) <br/>
+👨‍💻 Soumik Sarker, Md Ekramul Islam, Jillur Rahman Saurav, **Md Mahadi Hasan Nahid** <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9333518)
 
+* [**Bangla Handwritten Character Recognition Using Deep Convolutional Autoencoder Neural Network**](https://ieeexplore.ieee.org/abstract/document/9333472)<br/>
+📰 <span style ="color:Maroon"> 2nd International Conference on Advanced Information and Communication Technology (ICAICT), 2020 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9333472) <br/>
+👨‍💻 Md Ali Azad, Hijam Sushil Singha, **Md Mahadi Hasan Nahid** <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9333472)
+
+## 2019
+* [**Bengali Question Answering System for Factoid Questions: A statistical approach**](https://ieeexplore.ieee.org/abstract/document/9084028/)<br/>
+📰 <span style ="color:Maroon"> International Conference on Bangla Speech and Language Processing(ICBSLP), 27-28 September, 2019 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9084028/) <br/>
+👨‍💻 Sourav Sarker, Syeda Tamanna Alam Monisha, **Md Mahadi Hasan Nahid** <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9084028/)
+
+* [**Classification of Bengali Questions Towards a Factoid Question Answering System**](https://ieeexplore.ieee.org/abstract/document/8934567/)<br/>
+📰 <span style ="color:Maroon"> 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT-2019) </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/8934567/) <br/>
+👨‍💻 Syeda Tamanna Alam Monisha, Sourav Sarker, **Md Mahadi Hasan Nahid** <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8934567/)
+
+## 2018
+* [**Improving Answer Extraction For Bangali Q/A System Using Anaphora-Cataphora Resolution**](https://ieeexplore.ieee.org/abstract/document/8660888/)<br/>
+📰 <span style ="color:Maroon"> International Conference on Innovation in Engineering and Technology (ICIET), 2018 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/8660888/) <br/>
+👨‍💻 Shomi Khan, Khadiza Tul Kubra, **Md Mahadi Hasan Nahid** <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8660888/)
+
+* [**Performance Analysis of Different Word Embedding Models on Bangla Language**](https://ieeexplore.ieee.org/abstract/document/8554681/)<br/>
+📰 <span style ="color:Maroon"> International Conference on Bangla Speech and Language Processing(ICBSLP), 21-22 September, 2018 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/8554681/) <br/>
+👨‍💻 Zakia Sultana Ritu, Nafisa Nowshin, **Md Mahadi Hasan Nahid**, Sabir Ismail <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8554681/)
+
+## 2017
+* [**Bengali speech recognition: A double layered LSTM-RNN approach**](https://ieeexplore.ieee.org/abstract/document/8281848)<br/>
+📰 <span style ="color:Maroon"> 20th International Conference of Computer and Information Technology (ICCIT), 2017 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/8281848) <br/>
+👨‍💻 **Md Mahadi Hasan Nahid**, Bishwajit Purkaystha, Md Saiful Islam <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8281848)
+
+## 2016 
+* [**A noble approach for recognizing Bangla real number automatically using CMU Sphinx4**](https://ieeexplore.ieee.org/abstract/document/7760121/)<br/>
+📰 <span style ="color:Maroon"> 5th International Conference on Informatics, Electronics and Vision (ICIEV), 2016 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/7760121/) <br/>
+👨‍💻 **Md Mahadi Hasan Nahid**, Md Ashraful Islam, Md Saiful Islam <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/7760121/)
 ----------------------------------------
 
 [**Back to Top**](#)
+
+<!-- * [****]()<br/>
+📰 <span style ="color:Maroon">  </span> [<span style ="color:DarkBlue"> [Link] </span>]() <br/>
+👨‍💻  **Md Mahadi Hasan Nahid** <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)]() -->
