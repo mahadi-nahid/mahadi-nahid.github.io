@@ -22,10 +22,10 @@ Feel free to explore my website to learn more about my research projects, public
 - Official: `mnahid[at]ualberta[dot]ca`  
 - Other: `nahid-cse[at]sust[dot]edu`
 
-🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/)
-🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)  
+🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/) 
 🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/mahadi-nahid/)  
 🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)
+🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)  
 
 🏠 **Address:**  
 Department of Computing Science  
