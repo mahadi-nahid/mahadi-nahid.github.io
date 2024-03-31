@@ -23,7 +23,7 @@ author_profile: true
 * [**Transmission Dynamics and Control of COVID-19: A Mathematical Modelling Study.**](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx)<br/>
 📰 <span style ="color:Maroon"> Journal of Applied Nonlinear Dynamics 12(2) (2023) 405--425 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx) <br/>
 👨‍💻 Das, K., Srinivas, M. N., Shahrear, P., Rahman, S. S.,**Md Mahadi Hasan Nahid**, & Murthy, B. S. N <br/>
-👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://2024.naacl.org)
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx)
 
 ## 2021
 * [**Zilla-64: A Bangla Handwritten Word Dataset Of 64 Districts` Name of Bangladesh and Recognition Using Holistic Approach**](https://ieeexplore.ieee.org/document/9642594)<br/>
