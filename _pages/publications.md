@@ -7,7 +7,7 @@ author_profile: true
 
 **Full List:** [ [**Google Scholar**](https://scholar.google.com/citations?user=WixxaYsAAAAJ&hl=en) ]
 
-<span style ="color:BlueViolet"> [\**indicates equal contribution*]</span>
+<!-- <span style ="color:BlueViolet"> [\**indicates equal contribution*]</span> -->
 
 <!-- [comment]: # \| [**Favorite Quotes**](#favorite-quotes) -->
 

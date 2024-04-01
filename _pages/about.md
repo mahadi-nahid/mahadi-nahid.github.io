@@ -17,7 +17,7 @@ Feel free to explore my website to learn more about my research projects, public
 👨‍💻👨‍💻👨‍💻 
 
 ## News
-* Paper Alert! - Accepted one paper at NAACL 2024
+* **Paper Alert!** - Accepted one paper at **NAACL 2024**
 
 ## Contact Me
 ✉️ **Email:**  
