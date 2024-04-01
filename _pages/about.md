@@ -16,6 +16,8 @@ Prior to my graduate studies, I completed my Bachelor's in Computer Science and 
 Feel free to explore my website to learn more about my research projects, publications, and academic journey.
 
 👨‍💻👨‍💻👨‍💻 
+## News
+* Paper Alert! - Accepted one paper at NAACL 2024
 
 ## Contact Me
 ✉️ **Email:**  
