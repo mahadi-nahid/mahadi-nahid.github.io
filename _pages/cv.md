@@ -15,7 +15,7 @@ author_profile: true
 - Other: `nahid-cse[at]sust[dot]edu`
 
 🔗 **Website:** [mahadi-nahid.github.io](https://mahadi-nahid.github.io/)   
-🔗 **LinkedIn:** [nahidcse](https://www.linkedin.com/in/mahadi-nahid/)    
+🔗 **LinkedIn:** [mahadi-nahid](https://www.linkedin.com/in/mahadi-nahid/)    
 🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)   
 🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)
 
