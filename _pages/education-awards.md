@@ -17,7 +17,7 @@ author_profile: true
 ## Achievements and Awards
 -----------
 * **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023** 
-* **Alberta Graduate Excellence Scholarship (AEGS), Sep 2023**
+* **Alberta Graduate Excellence Scholarship (AGES), Sep 2023**
 * Alberta Machine Intelligence Institute (Amii) Talent Bursary, Amii 2023
   * Upperbound AI Conference, 2023, 2024
 * **University of Alberta Graduate Recruitment Scholarship Sep 2022** 
