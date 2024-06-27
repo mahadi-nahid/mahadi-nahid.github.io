@@ -21,6 +21,7 @@ author_profile: true
 
 ## Achievements and Awards
 -----------
+* **UAlberta Travel Award, June 2024** 
 * **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023** 
 * **Alberta Graduate Excellence Scholarship (AGES), Sep 2023**
 * Alberta Machine Intelligence Institute (Amii) Talent Bursary, Amii 2023

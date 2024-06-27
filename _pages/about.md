@@ -16,9 +16,11 @@ Prior to my graduate studies, I completed my Bachelor's in Computer Science and 
 ## News
 * Attended **NAACL 2024** in Mexico City
 * **Paper Alert!** - Accepted one paper at **NAACL 2024**
+* Attended AMII UpperBound Conference May, 2024 
+* Attended **ACL 2023** 
 
 ## Contact Me
-✉️ **Email:**  
+✉️ **Email**  
 📧 Official: `mnahid[at]ualberta[dot]ca`  
 📧 Other: `nahid-cse[at]sust[dot]edu`
 
@@ -26,9 +28,8 @@ Prior to my graduate studies, I completed my Bachelor's in Computer Science and 
 🔗 **LinkedIn:** [mahadi-nahid](https://www.linkedin.com/in/mahadi-nahid/)    
 🐙 **GitHub:** [mahadi-nahid](https://github.com/mahadi-nahid)   
 🐦 **Twitter:** [mhn_nahid](https://twitter.com/mhn_nahid)
- 
 
-🏠 **Address:**  
+🏠 **Address**  
 Department of Computing Science  
 1-13 Athabasca Hall  
 University of Alberta  

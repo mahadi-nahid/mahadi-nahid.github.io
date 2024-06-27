@@ -41,7 +41,7 @@ author_profile: true
 👨‍💻 Shahrear, Pabel, SM Saydur Rahman, **Md Mahadi Hasan Nahid** <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.sciencedirect.com/science/article/pii/S2590037421000054)
 
-## 2020
+## 2016 - 2020
 * [**Word Completion and Sequence Prediction in Bangla Language Using Trie and a Hybrid Approach of Sequential LSTM and N-gram**](https://ieeexplore.ieee.org/abstract/document/9333518)<br/>
 📰 <span style ="color:Maroon"> 2nd International Conference on Advanced Information and Communication Technology (ICAICT), 2020 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9333518) <br/>
 👨‍💻 Soumik Sarker, Md Ekramul Islam, Jillur Rahman Saurav, **Md Mahadi Hasan Nahid** <br/>
@@ -52,7 +52,6 @@ author_profile: true
 👨‍💻 Md Ali Azad, Hijam Sushil Singha, **Md Mahadi Hasan Nahid** <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9333472)
 
-## 2019
 * [**Bengali Question Answering System for Factoid Questions: A statistical approach**](https://ieeexplore.ieee.org/abstract/document/9084028/)<br/>
 📰 <span style ="color:Maroon"> International Conference on Bangla Speech and Language Processing(ICBSLP), 27-28 September, 2019 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9084028/) <br/>
 👨‍💻 Sourav Sarker, Syeda Tamanna Alam Monisha, **Md Mahadi Hasan Nahid** <br/>
@@ -67,7 +66,7 @@ author_profile: true
 📰 <span style ="color:Maroon"> Journal of Engineering Research, Innovation and Education, Vol. 1, No. 1, September, 2019 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://www.researchgate.net/profile/Md-Mahadi-Hasan-Nahid/publication/337940431_End-to-End_Bengali_Speech_Recognition_using_DeepSpeech/links/61001ee12bf3553b2916e24f/End-to-End-Bengali-Speech-Recognition-using-DeepSpeech.pdf) <br/>
 👨‍💻  **Md Mahadi Hasan Nahid**, Bishwajit Purkaystha, Md Saiful Islam <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.researchgate.net/profile/Md-Mahadi-Hasan-Nahid/publication/337940431_End-to-End_Bengali_Speech_Recognition_using_DeepSpeech/links/61001ee12bf3553b2916e24f/End-to-End-Bengali-Speech-Recognition-using-DeepSpeech.pdf)
-## 2018
+
 * [**Improving Answer Extraction For Bangali Q/A System Using Anaphora-Cataphora Resolution**](https://ieeexplore.ieee.org/abstract/document/8660888/)<br/>
 📰 <span style ="color:Maroon"> International Conference on Innovation in Engineering and Technology (ICIET), 2018 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/8660888/) <br/>
 👨‍💻 Shomi Khan, Khadiza Tul Kubra, **Md Mahadi Hasan Nahid** <br/>
@@ -78,13 +77,11 @@ author_profile: true
 👨‍💻 Zakia Sultana Ritu, Nafisa Nowshin, **Md Mahadi Hasan Nahid**, Sabir Ismail <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8554681/)
 
-## 2017
 * [**Bengali speech recognition: A double layered LSTM-RNN approach**](https://ieeexplore.ieee.org/abstract/document/8281848)<br/>
 📰 <span style ="color:Maroon"> 20th International Conference of Computer and Information Technology (ICCIT), 2017 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/8281848) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid**, Bishwajit Purkaystha, Md Saiful Islam <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/8281848)
 
-## 2016 
 * [**A noble approach for recognizing Bangla real number automatically using CMU Sphinx4**](https://ieeexplore.ieee.org/abstract/document/7760121/)<br/>
 📰 <span style ="color:Maroon"> 5th International Conference on Informatics, Electronics and Vision (ICIEV), 2016 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/7760121/) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid**, Md Ashraful Islam, Md Saiful Islam <br/>
