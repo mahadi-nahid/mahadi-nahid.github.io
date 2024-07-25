@@ -4,22 +4,30 @@ title: "Education and Awards"
 permalink: /education-awards/
 author_profile: true
 ---
-## Education
+# Education
 -----------
-* **MSc(Thes.) in Computing Science, University of Alberta, 2024 (expected)**
-* **BSc in Computer Science and Engineering, Shahjalal University of Science and Technology, 2016**
+## 🎓 MSc (Thes.) in Computing Science, Aug 2024
+---------------------------------
+* [University of Alberta (UofA)](https://www.ualberta.ca/index.html), Edmonton, Canada.
+* **Thesis Title:** *"Improving Table Reasoning through Table Decomposition and Normalization"*
+* **Supervisor:** [Prof. Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/)
+* **Committee Members:** [Prof. Greg Kondrak](http://webdocs.cs.ualberta.ca/~kondrak/) and [Prof. Mario Nascimento](https://apps.ualberta.ca/directory/person/mnascime)
 
-## Work experience
+## 🎓 BSc in Computer Science and Engineering, 2016
+--------------------------------------------------
+* [Shahjalal University of Science and Technology](https://www.sust.edu), Sylhet, Bangladesh 
+
+# Work experience
 -----------
 * **September 2022 - Present: Graduate Teaching Assistant, University of Alberta.**
   * Course: CMPUT 291 - File and Database Management, F22, W23, F23, W24
 * **May 2023 - August 2023: Graduate Research Assistant, University of Alberta.** 
 
-## Service 
+# Service 
 ----------- 
 * Subreviewer: **WSDM 2024, SIGIR 2023, CIKM 2023**, ICBSLP 2019, ICERIE 2019
 
-## Achievements and Awards
+# Achievements and Awards
 -----------
 * **UAlberta Travel Award, June 2024** 
 * **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023** 
@@ -35,7 +43,7 @@ author_profile: true
 * IEEE Honorable Mention Award, Awarded by CAICT Conference, 2020 
 * **Prime Minister Gold Medal - 2016**
 
-## Skills
+# Skills
 -----------
 * NLP, IR, LLM
 
