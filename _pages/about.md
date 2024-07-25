@@ -14,11 +14,11 @@ My research interests span across Natural Language Processing, Information Retri
 Prior to my graduate studies, I completed my Bachelor's in Computer Science and Engineering from [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu), Bangladesh.
 
 ## News
-* I have defended my **MSc Thesis** 
-* Attended **NAACL 2024** in Mexico City
-* **Paper Alert!** - Accepted one paper at **NAACL 2024**
-* Attended AMII UpperBound Conference May, 2024 
-* Attended **ACL 2023** 
+* 📢 I have defended my **MSc Thesis** 
+* ✨ Attended **NAACL 2024** in Mexico City
+* 📢 **Paper Alert!** - Accepted one paper at **NAACL 2024**
+* ✨ Attended AMII UpperBound Conference May, 2024 
+* ✨ Attended **ACL 2023** 
 
 ## Contact Me
 ✉️ **Email**  
