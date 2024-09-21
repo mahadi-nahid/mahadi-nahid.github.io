@@ -6,6 +6,11 @@ author_profile: true
 ---
 # Education
 -----------
+## 🎓 PhD in Computing Science, Sep 2024 - Present
+---------------------------------
+* [University of Alberta (UofA)](https://www.ualberta.ca/index.html), Edmonton, Canada.
+* **Supervisor:** [Prof. Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/)
+
 ## 🎓 MSc (Thes.) in Computing Science, Aug 2024
 ---------------------------------
 * [University of Alberta (UofA)](https://www.ualberta.ca/index.html), Edmonton, Canada.
