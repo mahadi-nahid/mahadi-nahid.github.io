@@ -24,6 +24,7 @@ author_profile: true
 
 # Work experience
 -----------
+* **September 2024 - Present: Associate Researcher (Intern) at **Huawei Canada**
 * **September 2022 - Present: Graduate Teaching Assistant, University of Alberta.**
   * Course: CMPUT 291 - File and Database Management, F22, W23, F23, W24
 * **May 2023 - August 2023: Graduate Research Assistant, University of Alberta.** 
