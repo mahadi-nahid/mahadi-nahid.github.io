@@ -14,6 +14,7 @@ My research interests span across Natural Language Processing, Information Retri
 Prior to my graduate studies, I completed my Bachelor's in Computer Science and Engineering from [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu), Bangladesh.
 
 ## News
+* ✨ Joined **Huawei Canada** as an Associate Researcher (Intern) 
 * 📢 **Paper Alert!** - Accepted one paper at **EMNLP 2024**
 * 📢 Started **PhD in Computing Science** at **UAlberta**
 * 📢 I have defended my **MSc Thesis** 
