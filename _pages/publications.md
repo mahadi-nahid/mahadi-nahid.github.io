@@ -17,7 +17,7 @@ author_profile: true
 * [**NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization**](https://arxiv.org/pdf/2406.17961)<br/>
 📰 <span style ="color:BlueViolet"> Accepted for publication at **EMNLP 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://arxiv.org/pdf/2406.17961) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
-👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2406.17961)
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2406.17961) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/mahadi-nahid/NormTab)
 
 * [**TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition**](https://aclanthology.org/2024.naacl-long.320.pdf)<br/>
 📰 <span style ="color:Maroon"> Accepted for publication at **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://2024.naacl.org/program/accepted_papers/#main-conference---long-papers) <br/>
