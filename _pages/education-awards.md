@@ -14,7 +14,7 @@ author_profile: true
 ## 🎓 MSc (Thes.) in Computing Science, Aug 2024
 ---------------------------------
 * [University of Alberta (UofA)](https://www.ualberta.ca/index.html), Edmonton, Canada.
-* **Thesis Title:** *"Improving Table Reasoning through Table Decomposition and Normalization"*
+* **Thesis Title:** *"Improving Table Reasoning through Table Decomposition and Normalization"* [Thesis](https://doi.org/10.7939/r3-ckmh-a783)
 * **Supervisor:** [Prof. Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/)
 * **Committee Members:** [Prof. Greg Kondrak](http://webdocs.cs.ualberta.ca/~kondrak/) and [Prof. Mario Nascimento](https://apps.ualberta.ca/directory/person/mnascime)
 
