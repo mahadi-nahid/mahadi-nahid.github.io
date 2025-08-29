@@ -14,7 +14,7 @@ author_profile: true
 [comment]: # <br/>
 
 ## 2025
-* **Rethinking Schema Linking: A Context-Aware Bidirectional Retrieval Approach for Text-to-SQL**
+* [**Rethinking Schema Linking: A Context-Aware Bidirectional Retrieval Approach for Text-to-SQL**]() <br/>
 📰 <span style ="color:BlueViolet"> **Work in progress** &nbsp; </span>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 
