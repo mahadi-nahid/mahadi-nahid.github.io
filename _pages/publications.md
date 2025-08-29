@@ -15,12 +15,12 @@ author_profile: true
 
 ## 2024
 * [**NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization**](https://aclanthology.org/2024.findings-emnlp.203/)<br/>
-📰 <span style ="color:BlueViolet"> Accepted for publication at **EMNLP 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://aclanthology.org/2024.findings-emnlp.203/) <br/>
+📰 <span style ="color:BlueViolet"> **EMNLP 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://aclanthology.org/2024.findings-emnlp.203/) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.findings-emnlp.203/) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/mahadi-nahid/NormTab) [![Poster](https://img.shields.io/badge/Poster-green)](https://github.com/mahadi-nahid/NormTab/blob/2e3c65e29c7cd71bc2a9e6c392eae2cd8b600b39/NormTab_EMNLP_2024-A0-4.pdf)
 
 * [**TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition**](https://aclanthology.org/2024.naacl-long.320/)<br/>
-📰 <span style ="color:Maroon"> Accepted for publication at **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://aclanthology.org/2024.naacl-long.320/) <br/>
+📰 <span style ="color:Maroon"> **NAACL 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://aclanthology.org/2024.naacl-long.320/) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.naacl-long.320/) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/mahadi-nahid/TabSQLify) [![Poster](https://img.shields.io/badge/Poster-green)](https://github.com/mahadi-nahid/TabSQLify/blob/47af3856f6ad71f2545781438a6a9daa2e65c09c/A0_TabSQLify_NAACL_2024-print.pdf)
 

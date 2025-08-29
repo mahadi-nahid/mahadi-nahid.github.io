@@ -24,19 +24,20 @@ author_profile: true
 
 # Work experience
 -----------
-* **September 2024 - Present: Associate Researcher (Intern) at Huawei Canada**
 * **September 2022 - Present: Graduate Teaching Assistant, University of Alberta.**
-  * Course: CMPUT 291 - File and Database Management, F22, W23, F23, W24
+  * Course: CMPUT 291 - File and Database Management, F22, W23, F23, W24, F25
+* **September 2024 - April 2025: Associate Researcher (Intern) at Huawei Canada**
 * **May 2023 - August 2023: Graduate Research Assistant, University of Alberta.** 
 
 # Service 
 ----------- 
+* Reviewer: NAACL 2025, ACL 2025, EMNLP 2025, ICDE 2025
 * Subreviewer: **WSDM 2024, SIGIR 2023, CIKM 2023**, ICBSLP 2019, ICERIE 2019
 
 # Achievements and Awards
 -----------
+* **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023 - Aug 2025** 
 * **UAlberta Travel Award, June 2024** 
-* **Alberta Innovates Graduate Student Scholarship (AIGSS), Sep 2023** 
 * **Alberta Graduate Excellence Scholarship (AGES), Sep 2023**
 * Alberta Machine Intelligence Institute (Amii) Talent Bursary, Amii 2023
   * Upperbound AI Conference, 2023, 2024
