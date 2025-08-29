@@ -31,7 +31,7 @@ author_profile: true
 
 # Service 
 ----------- 
-* Reviewer: NAACL 2025, ACL 2025, EMNLP 2025, ICDE 2025
+* Reviewer: **NAACL 2025, ACL 2025, EMNLP 2025, ICDE 2025**
 * Subreviewer: **WSDM 2024, SIGIR 2023, CIKM 2023**, ICBSLP 2019, ICERIE 2019
 
 # Achievements and Awards
