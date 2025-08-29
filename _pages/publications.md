@@ -14,6 +14,11 @@ author_profile: true
 [comment]: # <br/>
 
 ## 2025
+* **Rethinking Schema Linking: A Context-Aware Bidirectional Retrieval Approach for Text-to-SQL**
+📰 <span style ="color:BlueViolet"> **Work in progress** &nbsp; </span>
+👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
+
+
 * [**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**](https://arxiv.org/abs/2412.20641)<br/>
 📰 <span style ="color:BlueViolet"> **ArXiv** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://arxiv.org/abs/2412.20641) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Sadid Bin Hasan <br/>
