@@ -13,6 +13,13 @@ author_profile: true
 
 [comment]: # <br/>
 
+## 2025
+* [**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**](https://arxiv.org/abs/2412.20641)<br/>
+📰 <span style ="color:BlueViolet"> **ArXiv** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://arxiv.org/abs/2412.20641) <br/>
+👨‍💻 **Md Mahadi Hasan Nahid** , Sadid Bin Hasan <br/>
+👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2412.20641)
+
+
 ## 2024
 * [**NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization**](https://aclanthology.org/2024.findings-emnlp.203/)<br/>
 📰 <span style ="color:BlueViolet"> **EMNLP 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://aclanthology.org/2024.findings-emnlp.203/) <br/>
