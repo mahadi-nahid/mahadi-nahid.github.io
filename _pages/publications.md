@@ -13,11 +13,8 @@ author_profile: true
 
 [comment]: # <br/>
 
-## 2025
-* [**Rethinking Schema Linking: A Context-Aware Bidirectional Retrieval Approach for Text-to-SQL**]() <br/>
-📰 <span style ="color:BlueViolet"> **Work in progress** &nbsp; </span> <br/>
-👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 
+## 2024
 
 * [**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**](https://arxiv.org/abs/2412.20641)<br/>
 📰 <span style ="color:BlueViolet"> **ArXiv** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://arxiv.org/abs/2412.20641) <br/>
@@ -25,7 +22,6 @@ author_profile: true
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2412.20641)
 
 
-## 2024
 * [**NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization**](https://aclanthology.org/2024.findings-emnlp.203/)<br/>
 📰 <span style ="color:BlueViolet"> **EMNLP 2024** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://aclanthology.org/2024.findings-emnlp.203/) <br/>
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
