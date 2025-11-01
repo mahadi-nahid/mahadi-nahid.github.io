@@ -14,7 +14,7 @@ author_profile: true
 [comment]: # <br/>
 
 
-## 2024
+## 📚 2024
 
 * [**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**](https://arxiv.org/abs/2412.20641)<br/>
 📰 <span style ="color:BlueViolet"> **ArXiv** &nbsp; </span> [<span style ="color:DarkBlue"> [Link] </span>](https://arxiv.org/abs/2412.20641) <br/>
@@ -32,13 +32,13 @@ author_profile: true
 👨‍💻 **Md Mahadi Hasan Nahid** , Davood Rafiei <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.naacl-long.320/) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/mahadi-nahid/TabSQLify) [![Poster](https://img.shields.io/badge/Poster-green)](https://github.com/mahadi-nahid/TabSQLify/blob/47af3856f6ad71f2545781438a6a9daa2e65c09c/A0_TabSQLify_NAACL_2024-print.pdf)
 
-## 2023
+## 📚 2023
 * [**Transmission Dynamics and Control of COVID-19: A Mathematical Modelling Study.**](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx)<br/>
 📰 <span style ="color:Maroon"> Journal of Applied Nonlinear Dynamics 12(2) (2023) 405--425 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx) <br/>
 👨‍💻 Das, K., Srinivas, M. N., Shahrear, P., Rahman, S. S.,**Md Mahadi Hasan Nahid**, & Murthy, B. S. N <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.lhscientificpublishing.com/Journals/articles/DOI-10.5890-JAND.2023.06.015.aspx)
 
-## 2021
+## 📚 2021
 * [**Bangla-ExtraSum: Comparative Analysis of Different Methods in Automated Extractive Bengali Text Summarization**](https://ieeexplore.ieee.org/abstract/document/9667900)<br/>
 📰 <span style ="color:Maroon"> 5th International Conference on Electrical Engineering and Information Communication Technology (ICEEICT), 2021  </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9667900) <br/>
 👨‍💻 Towhid Ahmed Foysal, Mohaimen Abid Mahadi, **Md Mahadi Hasan Nahid**, Ayesha Tasnim <br/>
@@ -54,7 +54,7 @@ author_profile: true
 👨‍💻 Shahrear, Pabel, SM Saydur Rahman, **Md Mahadi Hasan Nahid** <br/>
 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.sciencedirect.com/science/article/pii/S2590037421000054)
 
-## 2016 - 2020
+## 📚 2016 - 2020
 * [**Word Completion and Sequence Prediction in Bangla Language Using Trie and a Hybrid Approach of Sequential LSTM and N-gram**](https://ieeexplore.ieee.org/abstract/document/9333518)<br/>
 📰 <span style ="color:Maroon"> 2nd International Conference on Advanced Information and Communication Technology (ICAICT), 2020 </span> [<span style ="color:DarkBlue"> [Link] </span>](https://ieeexplore.ieee.org/abstract/document/9333518) <br/>
 👨‍💻 Soumik Sarker, Md Ekramul Islam, Jillur Rahman Saurav, **Md Mahadi Hasan Nahid** <br/>
