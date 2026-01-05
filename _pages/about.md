@@ -18,6 +18,7 @@ My research explores how large language models (LLMs) can understand and reason 
 
 
 ## 📆 News
+* 📢 **Paper Alert!** - Accepted one paper at **EACL 2026**
 * Attened COLM 2025 in Montreal, Canada 
 * ✨ Joined **Huawei Canada** as an Associate Researcher (Intern) 
 * 📢 **Paper Alert!** - Accepted one paper at **EMNLP 2024**
