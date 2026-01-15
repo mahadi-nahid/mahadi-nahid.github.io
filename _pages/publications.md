@@ -15,7 +15,7 @@ author_profile: true
 ## 📚 2026
 
 * [**Rethinking Schema Linking: A Context-Aware Bidirectional Retrieval Approach for Text-to-SQL**](https://arxiv.org/abs/2510.14296)<br/>
-👨‍💻 **Md Mahadi Hasan Nahid**, Davood Rafiei <br/>
+👨‍💻 **Md Mahadi Hasan Nahid**, Davood Rafiei, Weiwei Zhang, Yong Zhang <br/>
 📰 <span style ="color:BlueViolet"> **EACL 2026** &nbsp; </span> 👉 [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2510.14296) [![Code](https://img.shields.io/badge/Code-blue)](https://github.com/mahadi-nahid/BiSchemaLink)
 
 
