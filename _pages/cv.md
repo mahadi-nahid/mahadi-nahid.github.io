@@ -6,7 +6,7 @@ author_profile: true
 ---
 <p>
   <a href="https://mahadi-nahid.github.io/files/Mahadi_ModularCV-Jan-2026.pdf" target="_blank" title="Long CV">Long CV</a>
-  <span style="color:green;">[<ins>Last Updated on November 17, 2024</ins>]</span>
+  <span style="color:green;">[<ins>Last Updated on January 17, 2026</ins>]</span>
 </p>
 
 ## Contact Me
